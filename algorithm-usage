@@ -1,0 +1,6 @@
+## 🎓 Final Year Project: CLOUD-BASED FINAL YEAR PROJECT MANAGEMENT SYSTEM
+
+- Developed a system that uses the **Analytic Hierarchy Process (AHP)** for multi-criteria decision making.
+- Implemented the AHP algorithm to calculate pairwise comparison matrices, priority vectors, and consistency ratios.
+- Users can input criteria and alternatives, and the system computes the best choice based on weighted scores.
+- Built using: **PHP** 
